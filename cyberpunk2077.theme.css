@@ -23,6 +23,13 @@
     --yellow: 243, 230, 0; /* Use RGB values */
     --green: 71, 213, 139; /* Use RGB values */
     --dark-green: 56, 171, 111; /* Use RGB values */
+    
+  --background-image: url('https://images5.alphacoders.com/128/1288655.png'); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-position: center; /* Positions the background image */
+  --background-size: cover; /* Scales the background image */
+  --background-blur: 2px; /* Blurs the image which helps with readability of text infront of it */
+  --background-brightness: 100%; /* Changes the background images brightness */
+}
 
     --avatar-circle: 0; /* Square avatar */
     --avatar-rounded: 5px; /* Square avatars */
